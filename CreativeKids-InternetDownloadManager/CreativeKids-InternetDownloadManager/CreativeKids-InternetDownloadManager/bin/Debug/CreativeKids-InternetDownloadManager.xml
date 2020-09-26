@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CreativeKids-InternetDownloadManager
+</name>
+</assembly>
+<members>
+<member name="T:CreativeKids_InternetDownloadManager.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CreativeKids_InternetDownloadManager.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CreativeKids_InternetDownloadManager.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CreativeKids_InternetDownloadManager.My.Resources.Resources._2020_09_26_0pg_Kleki">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CreativeKids_InternetDownloadManager.My.Resources.Resources._261420_200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CreativeKids_InternetDownloadManager.My.Resources.Resources._261420_2001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CreativeKids_InternetDownloadManager.My.Resources.Resources._36973">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CreativeKids_InternetDownloadManager.My.Resources.Resources.copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CreativeKids_InternetDownloadManager.My.Resources.Resources.DownloadManager">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CreativeKids_InternetDownloadManager.My.Resources.Resources.pate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
